@@ -8,7 +8,7 @@
 6. `git checkout`: 转换当前分支
 7. `git checkout -b`: 建立新的分支。
 8. `git log | log --oneline`: 显示变更及相关信息。
-9. `git merge {branch}: 将分支并入主干
+9. `git merge {branch}`: 将分支并入主干
 10. `git push URL master`: 将本地repo共享至github
 11. `git remote add orgin URL` | `git push origin master`: 设置一个别名，便于远程和本地同步。
 12. `git pull origin`:从远程同步至本地。
