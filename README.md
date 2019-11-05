@@ -15,7 +15,7 @@
 9. `git merge {branch}`: 将分支并入主干
    【在历史记录中明确记录该次分支合并，可加上参数 --no-ff】
 10. `git push URL master`: 将本地 repo 共享至 github
-11. `git remote add orgin URL` | `git push origin master`: 设置一个别名，便于远程和本地同步。
+11. `git remote add origin URL` | `git push origin master`: 设置一个别名，便于远程和本地同步。
 12. `git pull origin`:从远程同步至本地。
 13. `git clone URL`: 从 GitHub 上获取 repo。
 14. `git branch -d | -D`:删除创建的分支 _但无法删除主干_。
